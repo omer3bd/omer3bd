@@ -1,4 +1,24 @@
-## Hi there 👋
+# Omer Abdullah Rizwan
+
+### About Me
+Data Analyst with hands-on experience in SQL, Python, Excel, and Tableau.
+Skilled in database design, data cleaning, and building dashboards
+that uncover insights, drive smarter strategies, and communicate data stories effectively.
+
+### Skills
+- SQL
+- Python
+- Excel
+- Tableau
+- Data Analysis
+- Machine Learning
+- Problem Solving
+
+### Contact
+- LinkedIn: http://linkedin.com/in/omer3bd
+- Email: oomerx001@gmail.com
+
+
 
 <!--
 **omer3bd/omer3bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
