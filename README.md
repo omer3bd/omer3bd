@@ -1,7 +1,7 @@
 # Omer Abdullah Rizwan
 
 ### About Me
-Data Analyst with hands-on experience in SQL, Python, Excel, and Tableau.
+Data Analyst with practical experience in SQL, Python, Excel, and Tableau.
 Skilled in database design, data cleaning, and building dashboards
 that uncover insights, drive smarter strategies, and communicate data stories effectively.
 
