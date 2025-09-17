@@ -7,7 +7,7 @@ that uncover insights, drive smarter strategies, and communicate data stories ef
 Thrives in cross-functional teams, building strong relationships to achieve shared goals.
 
 ### Personal Projects
-- [Vending Machine Sales Performance Analysis - 2025](https://github.com/omer3bd/Vending-Machine-Sales-Performance-Analysis---2025)
+- [Vending Machine Sales Performance Analysis - 2025](https://github.com/omer3bd/Vending-Machine-Sales-Performance-Analysis---2025) - Analyzed performance and customer usage patterns of a public multi-variety "coffee vending machine".
 
 ### Skills
 - SQL
