@@ -1,9 +1,13 @@
 # Omer Abdullah Rizwan
 
 ### About Me
-Data Analyst with practical experience in SQL, Python, Excel, and Tableau.
-Skilled in database design, data cleaning, and building dashboards
+A Data Analyst leveraging Business Solutions with tools like in SQL, Python, Excel, and Tableau.
+Skilled in data cleaning, standardizing, analysing and building dashboards
 that uncover insights, drive smarter strategies, and communicate data stories effectively.
+Thrives in cross-functional teams, building strong relationships to achieve shared goals.
+
+### Personal Projects
+- [Vending Machine Sales Performance Analysis - 2025](https://github.com/omer3bd/Vending-Machine-Sales-Performance-Analysis---2025)
 
 ### Skills
 - SQL
@@ -14,7 +18,7 @@ that uncover insights, drive smarter strategies, and communicate data stories ef
 - Machine Learning
 - Problem Solving
 
-### Contact
+### Lets Connect
 - LinkedIn: http://linkedin.com/in/omer3bd
 - Email: oomerx001@gmail.com
 
