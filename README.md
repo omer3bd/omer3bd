@@ -18,8 +18,7 @@ Thrives in cross-functional teams, building strong relationships to achieve shar
 - Excel
 - Tableau
 - Data Analysis
-- Machine Learning
-- Problem Solving
+- Business Problem Solving
 
 ### Lets Connect
 - LinkedIn: http://linkedin.com/in/omer3bd
