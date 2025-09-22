@@ -9,7 +9,7 @@ Thrives in cross-functional teams, building strong relationships to achieve shar
 
 ### Personal Projects
 - [Vending Machine Sales Performance Analysis - 2025](https://github.com/omer3bd/Vending-Machine-Sales-Performance-Analysis---2025) - Analyzed performance and customer usage patterns of a public multi-variety "coffee vending machine".
-- [Electronic Store Sales Analysis - 2019](https://github.com/omer3bd/Electronic-Store-Sales-Analysis-2019) - Conducted analysis and identified key sales trends across city regions and product categories for an electronics retailer, high-performing cities and product segments, delivering insights for an electronics store.
+- [Electronic Store Sales Analysis - 2019](https://github.com/omer3bd/Electronic-Store-Sales-Analysis-2019) - Conducted analysis and identified key sales trends across city regions and product categories for an electronics retailer, high-performing cities and product segments, delivering business insights for an electronics store.
 
 
 ### Skills
