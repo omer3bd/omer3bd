@@ -8,12 +8,14 @@ that uncover insights, drive smarter strategies, and communicate data stories ef
 Thrives in cross-functional teams, building strong relationships to achieve shared goals.
 
 ### Personal Projects
+- [Credit Card Spending Habits in India - 2013–2016](https://github.com/omer3bd/Credit_Card_Spending_Habits_India_2013_to_2015) - Analyzed over 26K transactions across major Indian cities to uncover consumer spending behaviors, card performance trends, and essential expense patterns, providing actionable insights for financial institutions.
 - [Vending Machine Sales Performance Analysis - 2025](https://github.com/omer3bd/Vending-Machine-Sales-Performance-Analysis---2025) - Analyzed performance and customer usage patterns of a public multi-variety "coffee vending machine".
 - [Electronic Store Sales Analysis - 2019](https://github.com/omer3bd/Electronic-Store-Sales-Analysis-2019) - Conducted analysis and identified key sales trends across city regions and product categories for an electronics retailer, high-performing cities and product segments, delivering business insights for an electronics store.
 
 
 ### Skills
 - SQL
+- Google BigQuery
 - Python
 - Excel
 - Tableau
