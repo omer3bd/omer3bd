@@ -24,8 +24,7 @@ Thrives in cross-functional teams, building strong relationships to achieve shar
 
 ### Lets Connect
 - LinkedIn: http://linkedin.com/in/omer3bd
-- Email: oomerx001@gmail.com
-
+- Email: oomer9942@gmail.com
 
 
 <!--
